@@ -1,6 +1,18 @@
 [debug] Created transactional ClassFileManager with tempDir = C:\Prashant\Java\Spark\Projects\WordCounterSubmit\target\scala-2.11\classes.bak
 [debug] About to delete class files:
+[debug] 	WordCounter$.class
+[debug] 	WordCounter$$anonfun$1.class
+[debug] 	WordCounter.class
+[debug] 	WordCounter$$anonfun$3.class
+[debug] 	WordCounter$$anonfun$4.class
+[debug] 	WordCounter$$anonfun$2.class
 [debug] We backup class files:
+[debug] 	WordCounter$.class
+[debug] 	WordCounter$$anonfun$1.class
+[debug] 	WordCounter.class
+[debug] 	WordCounter$$anonfun$3.class
+[debug] 	WordCounter$$anonfun$4.class
+[debug] 	WordCounter$$anonfun$2.class
 [debug] Registering generated classes:
 [debug] 	WordCounter$.class
 [debug] 	WordCounter$$anonfun$1.class
