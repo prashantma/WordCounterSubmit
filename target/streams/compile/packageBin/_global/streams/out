@@ -1,0 +1,21 @@
+[debug] Packaging C:\Prashant\Java\Spark\Projects\WordCounterSubmit\target\scala-2.11\wordcountersubmit_2.11-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	org
+[debug] 	  C:\Prashant\Java\Spark\Projects\WordCounterSubmit\target\scala-2.11\classes\org
+[debug] 	org\pacificsevenseasteam
+[debug] 	  C:\Prashant\Java\Spark\Projects\WordCounterSubmit\target\scala-2.11\classes\org\pacificsevenseasteam
+[debug] 	org\pacificsevenseasteam\spark
+[debug] 	  C:\Prashant\Java\Spark\Projects\WordCounterSubmit\target\scala-2.11\classes\org\pacificsevenseasteam\spark
+[debug] 	org\pacificsevenseasteam\spark\WordCounter$$anonfun$1.class
+[debug] 	  C:\Prashant\Java\Spark\Projects\WordCounterSubmit\target\scala-2.11\classes\org\pacificsevenseasteam\spark\WordCounter$$anonfun$1.class
+[debug] 	org\pacificsevenseasteam\spark\WordCounter$$anonfun$2.class
+[debug] 	  C:\Prashant\Java\Spark\Projects\WordCounterSubmit\target\scala-2.11\classes\org\pacificsevenseasteam\spark\WordCounter$$anonfun$2.class
+[debug] 	org\pacificsevenseasteam\spark\WordCounter$$anonfun$3.class
+[debug] 	  C:\Prashant\Java\Spark\Projects\WordCounterSubmit\target\scala-2.11\classes\org\pacificsevenseasteam\spark\WordCounter$$anonfun$3.class
+[debug] 	org\pacificsevenseasteam\spark\WordCounter$$anonfun$4.class
+[debug] 	  C:\Prashant\Java\Spark\Projects\WordCounterSubmit\target\scala-2.11\classes\org\pacificsevenseasteam\spark\WordCounter$$anonfun$4.class
+[debug] 	org\pacificsevenseasteam\spark\WordCounter$.class
+[debug] 	  C:\Prashant\Java\Spark\Projects\WordCounterSubmit\target\scala-2.11\classes\org\pacificsevenseasteam\spark\WordCounter$.class
+[debug] 	org\pacificsevenseasteam\spark\WordCounter.class
+[debug] 	  C:\Prashant\Java\Spark\Projects\WordCounterSubmit\target\scala-2.11\classes\org\pacificsevenseasteam\spark\WordCounter.class
+[debug] Done packaging.
